@@ -1,9 +1,9 @@
 {
-	"name": "shsgames",
-	"display-name": "SHS Games",
+	"name": "sigmabread games",
+	"display-name": "sigmabread games",
 	"version": "39.0.108",
-	"description": "Unblocked games • part of an inside job.",
-	"author": "Josh Merlino",
+	"description": "have u ever had sigma bread",
+	"author": "sigmabread",
 	"license": "ISC",
 	"engines": {
 		"node": "20.x"
