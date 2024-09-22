@@ -1,8 +1,8 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "SHS Games",
-    "short_name": "SHS Games",
-    "description": "Unblocked games • part of an inside job.",
+    "name": "sigmabread games",
+    "short_name": "sbg",
+    "description": "sigmabread🍞",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "orientation": "portrait",
